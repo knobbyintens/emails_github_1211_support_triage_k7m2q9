@@ -1,7 +1,7 @@
 # Support Escalation Triage Policy
 
 This repository tracks engineering work produced by customer escalations from the
-support mailbox folder `SupportEscalations`.
+support mailbox folder `emails_github_1211_support_escalations_k7m2q9`.
 
 ## Priority
 
